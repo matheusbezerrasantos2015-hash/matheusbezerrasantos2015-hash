@@ -1,11 +1,9 @@
 name: Generate Snake 🐍
 
 on:
-  # Atualiza todo dia às 00:00 UTC
   schedule:
-    - cron: "0 0 * * *"
-  # Permite rodar manualmente pela aba Actions
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # roda todo dia à meia-noite UTC
+  workflow_dispatch:  # permite rodar manualmente
 
 jobs:
   build:
@@ -19,7 +17,7 @@ jobs:
       - name: 🐍 Geração da cobrinha
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: matheusbezerrasantos2015-hash
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
