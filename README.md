@@ -131,5 +131,6 @@
 
 ###
 
+<!-- Snake Animation -->
 ![snake animation](https://raw.githubusercontent.com/matheusbezerrasantos2015-hash/matheusbezerrasantos2015-hash/main/output/github-contribution-grid-snake.svg)
 
