@@ -104,6 +104,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <a href="www.linkedin.com/in/matheus-bezerra" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -118,10 +120,11 @@
 
 ###
 
-### 🐍 Minhas contribuições em ação
+<br clear="both">
 
-![Snake animation](https://github.com/matheusbezerrasantos2015-hash/matheusbezerrasantos2015-hash/blob/output/snake.svg#gh-light-mode-only)
-![Snake animation dark](https://github.com/matheusbezerrasantos2015-hash/matheusbezerrasantos2015-hash/blob/output/snake-dark.svg#gh-dark-mode-only)
-
-
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusbezerrasantos2015-hash&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=matheusbezerrasantos2015-hash&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=matheusbezerrasantos2015-hash&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusbezerrasantos2015-hash&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
