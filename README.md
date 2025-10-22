@@ -118,5 +118,10 @@
 
 ###
 
+### 🐍 Minhas contribuições em ação
+
+![Snake animation](https://github.com/matheusbezerrasantos2015-hash/matheusbezerrasantos2015-hash/blob/output/snake.svg#gh-light-mode-only)
+![Snake animation dark](https://github.com/matheusbezerrasantos2015-hash/matheusbezerrasantos2015-hash/blob/output/snake-dark.svg#gh-dark-mode-only)
+
 
 
