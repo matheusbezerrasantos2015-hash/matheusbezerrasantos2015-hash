@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Sou um estudante dedicado ao universo do desenvolvimento de software, sempre em busca de expandir meus conhecimentos e aprimorar minhas habilidades.<br>Minha jornada começou com interesse pela área acadêmica, analise de dados, Inteligência Artificial com Python e Desenvolvimento Full Stack.<br>Acredito que aprender nunca para, e cada projeto é uma oportunidade de crescimento e inovação. 💻✨</p>
+<p align="left">Sou um estudante dedicado ao universo do desenvolvimento de software, sempre em busca de expandir meus conhecimentos e aprimorar minhas habilidades.<br>Minha jornada começou com interesse pela área acadêmica, analise de dados, Inteligência Artificial com Python e Desenvolvimento Full Stack.<br>Acredito que o aprendizado é contínuo, e cada projeto é uma oportunidade de crescimento e inovação. 💻✨</p>
 
 ###
 
