@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Sou um estudante dedicado ao universo do desenvolvimento de software, sempre em busca de expandir meus conhecimentos e aprimorar minhas habilidades.<br>Minha jornada começou com interesse pela área acadêmica, analise de dados, Inteligência Artificial com Python e Desenvolvimento Full Stack.<br>Acredito que o aprendizado é contínuo, e cada projeto é uma oportunidade de crescimento e inovação. 💻✨</p>
+<p align="left">Sou um estudante dedicado ao universo do desenvolvimento de software, sempre em busca de expandir meus conhecimentos e aprimorar minhas habilidades.<br>Minha jornada começou com interesse pela área acadêmica, analise de dados, Inteligência Artificial com Python e Desenvolvimento Full Stack.<br>Acredito que o aprendizado é contínuo, e cada projeto é uma oportunidade de crescimento e inovação 💻✨</p>
 
 ###
 
@@ -52,13 +52,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
 
-<p align="left">Banco de Dados</p>
+<p align="left">Analise de Dados</p>
 
 ###
 
@@ -81,9 +79,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
@@ -92,7 +90,7 @@
 
 ###
 
-<p align="left">2025: Início na área de desenvolvimento de software 💻<br>    2025: Fundamentos de Banco de Dados e SQL 🗄️<br>    2025: Introdução à Inteligência Artificial com Python 🤖<br>    2025: Desenvolvimento Full Stack 🌐</p>
+<p align="left">2025: Início na área de desenvolvimento de software 💻<br>    2025: Fundamentos de analise de dados e banco de Dados e SQL 🗄️<br>    2025: Introdução à Inteligência Artificial com Python 🤖<br>    2025: Desenvolvimento Full Stack 🌐</p>
 
 ###
 
@@ -100,7 +98,7 @@
 
 ###
 
-<p align="left">🎓 Área Acadêmica: Expandir meus conhecimentos em cursos, workshops e especializações na área de Python (voltado para IA) e Banco de Dados<br>    🤖 Inteligência Artificial e Machine Learning com Python<br>    🔧 Desenvolvimento Full Stack<br>    🗃️ Otimização e modelagem de Banco de Dados</p>
+<p align="left">🎓 Área Acadêmica & Desenvolvimento Profissional, Busco constantemente ampliar meus conhecimentos e habilidades em tecnologia, com foco em:<br>    🤖 Python & Inteligência Artificial: criação de soluções inteligentes e aplicações de Machine Learning.<br>🗃️ Análise de Dados: interpretação, visualização e extração de insights valiosos a partir de dados.<br>    🔧Desenvolvimento Full Stack: experiência na construção de aplicações completas, integrando front-end e back-end</p>
 
 ###
 
@@ -123,11 +121,8 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusbezerrasantos2015-hash&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="left">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusbezerrasantos2015-hash&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=matheusbezerrasantos2015-hash&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=matheusbezerrasantos2015-hash&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusbezerrasantos2015-hash&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
