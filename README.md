@@ -20,7 +20,7 @@
 > name: Matheus Bezerra
 > role: Software Development Student
 > focus: Back-end | Data | AI
-> location: Brazil
+> location: Porto Ferreira - SP, Brazil
 > mindset: Continuous Evolution
 ``` 
 
