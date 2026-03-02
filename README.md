@@ -31,7 +31,7 @@ Transformo curiosidade em código e código em aprendizado.
 ---
 
 <!-- ================= TECH STACK ================= -->
-⚙️ Tech Stack
+⚙️ Technical Skills (In Learning):
 
 💻 Languages
 <p> <img src="https://skillicons.dev/icons?i=python,cpp,cs,js,ts,php" /> </p>
