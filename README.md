@@ -24,9 +24,9 @@
 > mindset: Continuous Evolution
 ``` 
 
-Sou estudante de Desenvolvimento de Software Multiplataforma, focado em construção de aplicações back-end, análise de dados e Inteligência Artificial.
+I am a Multiplatform Software Development student, focused on building back-end applications, data analysis, and Artificial Intelligence.
 
-Transformo curiosidade em código e código em aprendizado.
+I turn curiosity into code and code into learning.
 
 ---
 
