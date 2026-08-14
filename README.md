@@ -11,12 +11,12 @@
 role        → Software Development Student & Academic Researcher
 institution → FATEC Porto Ferreira — DSM (2025–2028)
 research    → AI Ethics · Metadata · Data Provenance
-focus       → Software Engineering · Project Management · Data Analysis
+focus       → Software Engineering · FinOps · Data Analysis
 background  → 6+ years industry · Cisco Cybersecurity (NetAcad)
 mindset     → Rigor. Curiosity. Continuous Evolution.
 ```
 
-Multiplatform Software Development student with a strong academic focus on **Software Engineering**, **Project Management**, and **Data Analysis**. Currently co-authoring a scientific paper on ethical provenance metadata for generative AI systems.
+Multiplatform Software Development student with a strong academic focus on **Software Engineering**, **FinOps**, and **Data Analysis**. Currently co-authoring a scientific paper on ethical provenance metadata for generative AI systems.
 
 I bring industrial background into academic research — connecting theory to real systems, from satellite image detection pipelines to full-stack job platforms managed end-to-end as Scrum Master and Product Owner.
 
