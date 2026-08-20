@@ -1,34 +1,84 @@
 <!-- HEADER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f8f9fa,100:e9ecef&height=160&section=header&text=Matheus%20Bezerra&fontSize=38&fontColor=212529&animation=fadeIn&desc=Software%20Engineering%20%C2%B7%20Project%20Management%20%C2%B7%20Data%20Analysis&descSize=15&descAlignY=75&descFontColor=6c757d" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f8f9fa,100:e9ecef&height=160&section=header&text=Matheus%20Bezerra&fontSize=38&fontColor=212529&animation=fadeIn&desc=Software%20Engineering%20%C2%B7%20FinOps%20%C2%B7%20Cybersecurity%20%C2%B7%20Applied%20AI&descSize=15&descAlignY=75&descFontColor=6c757d" />
 </p>
 
 ---
 
 ## About Me
 
-```
+```text
 role        → Software Development Student & Academic Researcher
 institution → FATEC Porto Ferreira — DSM (2025–2028)
+focus       → Software Engineering · FinOps · Cybersecurity · Applied AI
 research    → AI Ethics · Metadata · Data Provenance
-focus       → Software Engineering · FinOps · Data Analysis
-background  → 6+ years industry · Cisco Cybersecurity (NetAcad)
+background  → 6+ years industrial experience
 mindset     → Rigor. Curiosity. Continuous Evolution.
+status      → Currently learning and developing
 ```
 
-Multiplatform Software Development student with a strong academic focus on **Software Engineering**, **FinOps**, and **Data Analysis**. Currently co-authoring a scientific paper on ethical provenance metadata for generative AI systems.
+Multiplatform Software Development student at **FATEC Porto Ferreira**, currently building my knowledge and experience across **Software Engineering, FinOps, Cybersecurity, Data Analysis and Applied AI**.
 
-I bring industrial background into academic research — connecting theory to real systems, from satellite image detection pipelines to full-stack job platforms managed end-to-end as Scrum Master and Product Owner.
+My academic and personal development is focused on understanding how software, cloud infrastructure, data, security and artificial intelligence can work together to create **reliable, secure and efficient systems**.
+
+> 🚧 **FinOps, Cybersecurity and Applied AI Engineering are currently areas of study and development in my academic and personal journey.**
+
+I also bring an industrial background into my academic path, connecting practical experience with software development, engineering practices and research.
 
 ---
 
 ## 🔬 Research & Academic Focus
 
-- **Ethical Provenance Metadata for Generative AI** — co-authoring scientific article (TOI event, FATEC Porto Ferreira)
-- **Software Engineering** — requirements, BPMN modeling, UML, software quality (ISO/IEC 25010, WCAG 2.1)
-- **Project Management** — Scrum Master & Product Owner in academic projects
-- **Data Analysis** — image detection pipelines (YOLOv8 + Streamlit + satellite data)
-- **Cybersecurity** — Cisco Networking Academy certified
+* **Ethical Provenance Metadata for Generative AI** — co-authoring scientific article (TOI event, FATEC Porto Ferreira)
+* **Software Engineering** — requirements, BPMN modeling, UML, software quality (ISO/IEC 25010, WCAG 2.1)
+* **FinOps & Cloud** — cloud fundamentals, cost awareness, optimization and governance
+* **Cybersecurity** — networking, secure development and security fundamentals
+* **Applied AI Engineering** — Generative AI, LLMs, RAG, AI integration and automation
+* **Data Analysis** — image detection pipelines and data processing
+* **Project Management** — Scrum Master & Product Owner in academic projects
+
+---
+
+## 📚 Currently Learning
+
+### ☁️ FinOps & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
+
+* Cloud Computing fundamentals
+* AWS
+* Azure
+* FinOps fundamentals
+* Cloud Economics
+* Cost optimization
+* Cloud governance
+
+### 🔐 Cybersecurity
+
+* Networking fundamentals
+* Secure software development
+* Application security
+* Identity & Access Management
+* Cloud Security
+* Cybersecurity fundamentals
+* Cisco Networking Academy
+
+### 🤖 Applied AI Engineering
+
+* Python for AI
+* Machine Learning
+* Generative AI
+* LLM integration
+* Prompt Engineering
+* RAG
+* Semantic Search
+* AI Agents
+* AI-powered applications
+* Computer Vision
+
+> These areas are currently part of my **learning and development path**, supported by courses, academic research and practical projects.
 
 ---
 
@@ -36,24 +86,29 @@ I bring industrial background into academic research — connecting theory to re
 
 **Languages & Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP%208.2-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP%208.2-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
 
 **Data & AI/ML**
 
-![MySQL](https://img.shields.io/badge/MySQL%208.0-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL%208.0-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-111111?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 
 **Tools & Practices**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum%20%2F%20Agile-0052CC?style=flat-square)
 ![BPMN](https://img.shields.io/badge/BPMN%20%2F%20UML-6c757d?style=flat-square)
 
@@ -61,11 +116,23 @@ I bring industrial background into academic research — connecting theory to re
 
 ## 📂 Selected Projects
 
-| Project | Description | Stack |
-|---|---|---|
+| Project                                                       | Description                                                                                                                  | Stack                                            |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | [ContrataPorto](https://github.com/seu-usuario/contrataporto) | Local job platform for Porto Ferreira/SP — built as **Scrum Master & Product Owner**, end-to-end from architecture to deploy | PHP 8.2 MVC · Vanilla JS · MySQL · JWT · Railway |
-| [WorkRPG](https://github.com/seu-usuario/workrpg) | Gamification system for workplace productivity — data structures course | C++17 · Qt5 |
-| SolarScan | Satellite image detection pipeline for solar panels — FETESP competition | YOLOv8 · Streamlit · Python |
+| [WorkRPG](https://github.com/seu-usuario/workrpg)             | Gamification system for workplace productivity — data structures course                                                      | C++17 · Qt5                                      |
+| SolarScan                                                     | Satellite image detection pipeline for solar panels — FETESP competition                                                     | YOLOv11 · Streamlit · Python                     |
+
+---
+
+## 🎓 Education
+
+**FATEC Porto Ferreira**
+
+🎓 Desenvolvimento de Software Multiplataforma
+📅 2025 — 2028
+📍 Porto Ferreira, São Paulo, Brazil
+
+Currently pursuing my degree and developing practical experience through **academic research, software projects and continuous technical study**.
 
 ---
 
@@ -86,5 +153,6 @@ I bring industrial background into academic research — connecting theory to re
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=6C757D&center=true&vCenter=true&width=600&lines=Software+Engineering+%7C+Research+%7C+Data+Analysis;Scrum+Master+%26+Product+Owner+in+Academic+Projects;AI+Ethics+%26+Metadata+Provenance+Researcher;FATEC+Porto+Ferreira+%E2%80%94+DSM+2025%E2%80%932028" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=6C757D&center=true&vCenter=true&width=700&lines=Software+Engineering+%7C+FinOps+%7C+Cloud;Cybersecurity+%7C+Applied+AI+Engineering;Research+%7C+Data+Analysis;Currently+Learning%2C+Building+and+Evolving;FATEC+Porto+Ferreira+%E2%80%94+DSM+2025%E2%80%932028" />
 </p>
+
