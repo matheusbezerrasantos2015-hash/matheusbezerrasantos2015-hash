@@ -4,6 +4,12 @@
   <img src="assets/profile-card.svg" width="100%" alt="Matheus Bezerra — terminal profile card" />
 </p>
 
+<p align="center">
+  <a href="SEU_LINK_PORTFOLIO_AQUI" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=vercel&logoColor=38BDF8" /></a>
+  <a href="https://www.linkedin.com/in/matheus-bezerra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+  <a href="mailto:matheusbezerra7gbs@gmail.com"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
+</p>
+
 ---
 
 ## About Me
