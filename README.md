@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f8f9fa,100:e9ecef&height=160&section=header&text=Matheus%20Bezerra&fontSize=38&fontColor=212529&animation=fadeIn&desc=Software%20Engineering%20%C2%B7%20FinOps%20%C2%B7%20Cybersecurity%20%C2%B7%20Applied%20AI&descSize=15&descAlignY=75&descFontColor=6c757d" />
+  <img src="assets/profile-card.svg" width="100%" alt="Matheus Bezerra — terminal profile card" />
 </p>
 
 ---
